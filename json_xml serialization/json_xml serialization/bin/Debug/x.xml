@@ -1,0 +1,5 @@
+﻿<student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>253</ID>
+  <name>ahmed</name>
+  <age>12</age>
+</student>

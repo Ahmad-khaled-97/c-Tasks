@@ -1,0 +1,12 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\bin\Debug\json_xml serialization.exe.config
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\bin\Debug\json_xml serialization.exe
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\bin\Debug\json_xml serialization.pdb
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\obj\Debug\json_xml_serialization.addObject.resources
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\obj\Debug\json_xml_serialization.Form1.resources
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\obj\Debug\json_xml_serialization.Properties.Resources.resources
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\obj\Debug\json_xml_serialization.view.resources
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\obj\Debug\json_xml serialization.csproj.GenerateResource.Cache
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\obj\Debug\json_xml serialization.exe
+C:\Users\Ahmed\documents\visual studio 2015\Projects\json_xml serialization\json_xml serialization\obj\Debug\json_xml serialization.pdb
